@@ -1,0 +1,24 @@
+{
+  "name": "bmi-calculator",
+  "version": "1.0.0",
+  "description": "BMI Calculator using Node.js",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fitriadamayanti12/node-bmi-calculator.git"
+  },
+  "author": "Fitria Damayanti",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fitriadamayanti12/node-bmi-calculator/issues"
+  },
+  "homepage": "https://github.com/fitriadamayanti12/node-bmi-calculator#readme",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "express": "^4.17.2"
+  }
+}
